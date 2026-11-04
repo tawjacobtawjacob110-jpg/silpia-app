@@ -12,6 +12,8 @@ package.domain = org.silpia
 # (list) शामिल की जाने वाली सोर्स फाइलें
 source.include_exts = py,png,jpg,kv,atlas
 
+source.dir = .
+
 # (list) मुख्य पाइथन फाइल (बिना एक्सटेंशन के)
 source.main_ext = py
 
