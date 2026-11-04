@@ -31,7 +31,7 @@ android.accept_sdk_license = true
 [buildozer]
 
 # (int) लॉग लेवल (0 से 2 तक)
-log_level = 2
+log_level = 1
 
 android.api = 31
 
