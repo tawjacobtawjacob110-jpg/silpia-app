@@ -21,7 +21,7 @@ source.main_ext = py
 version = 0.1
 
 # (list) एप्लीकेशन की जरूरतें (Requirements)
-requirements = python3==3.10,kivy,speechrecognition
+requirements = python3,kivy,speechrecognition
 
 # (str) ओरिएंटेशन (portrait या landscape)
 orientation = portrait
